@@ -41,7 +41,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 <p>
-  <span>登陆/登陆成功页面</span>
+  #####登陆/登陆成功页面
   <br>
     <img src="./gif/login.png" >
     <img src="./gif/loginSucc.png" >
