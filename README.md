@@ -40,7 +40,17 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ##### axios
 
 
-
+<p align="center">
+    <img src="./gif/login.png" >
+    <img src="./screenshot/douban_movie.gif" >
+    <br>
+     <img src="./screenshot/douban_login.gif" >
+    <img src="./screenshot/douban_search.gif" >
+    <br><br>
+    <strong>......</strong>
+    <br>
+	 <strong><a href="https://jeneser.github.io/douban/">Live Demo</a></strong>
+</p>
 
 
 
