@@ -30,4 +30,17 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
 
-采用webpack 编译打包  同时对静态文件进行压缩 减少http请求
+#### 前端使用的是vue +ElementUI +ydui
+
+### 技术栈
+##### ydui 
+##### vue-upload-component
+##### echarts
+##### vue-router
+##### axios
+
+
+
+
+
+
