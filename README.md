@@ -43,8 +43,10 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 ##### 登陆/登陆成功页面
 <br>
+<p>
   <img src="./gif/login.png" >
   <img src="./gif/loginSucc.png" >
+</p>
 <br>
 ##### 注册页面
 <br>
