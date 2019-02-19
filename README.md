@@ -41,16 +41,34 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 
-#####登陆/登陆成功页面
-    <img src="./gif/login.pg" >
-    <img src="./gif/loginSucc.png" >
-    <br>
-     <img src="./screenshot/douban_login.gif" >
-    <img src="./screenshot/douban_search.gif" >
-    <br><br>
-    <strong>......</strong>
-    <br>
-	 <strong><a href="https://jeneser.github.io/douban/">Live Demo</a></strong>
+##### 登陆/登陆成功页面
+<br>
+  <img src="./gif/login.pg" >
+  <img src="./gif/loginSucc.png" >
+<br>
+##### 注册页面
+<br>
+ <img src="./gif/register.png" >
+<br>
+
+##### 首页
+<br>
+ <img src="./gif/shouye.png" >
+<br>
+
+##### 排名/打卡页面
+<br>
+ <img src="./gif/paixun.png" >
+ <img src="./gif/peisu.png" >
+<br>
+
+##### 个人信息/个人信息修改
+<br>
+ <img src="./gif/personInfo.png" >
+ <img src="./gif/editor.png" >
+<br>
+<strong>......</strong>
+<br>
 
 
 
