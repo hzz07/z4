@@ -40,7 +40,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ##### axios
 
 
-<p align="center">
+<p>
     <img src="./gif/login.png" >
     <img src="./screenshot/douban_movie.gif" >
     <br>
