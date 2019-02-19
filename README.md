@@ -40,10 +40,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ##### axios
 
 
-<p>
-  #####登陆/登陆成功页面
-  <br>
-    <img src="./gif/login.png" >
+
+#####登陆/登陆成功页面
+    <img src="./gif/login.pg" >
     <img src="./gif/loginSucc.png" >
     <br>
      <img src="./screenshot/douban_login.gif" >
@@ -52,7 +51,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
     <strong>......</strong>
     <br>
 	 <strong><a href="https://jeneser.github.io/douban/">Live Demo</a></strong>
-</p>
+
 
 
 
