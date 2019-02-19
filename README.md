@@ -47,30 +47,36 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
   <img src="./gif/login.png" >
   <img src="./gif/loginSucc.png" >
 </p>
-<br>
 ##### 注册页面
 <br>
- <img src="./gif/register.png" >
-<br>
+<p>
+	<img src="./gif/register.png" >
+</p>
 
 ##### 首页
 <br>
- <img src="./gif/shouye.png" >
-<br>
+<p>
+	<img src="./gif/shouye.png" >
+</p>
 
 ##### 排名/打卡页面
 <br>
- <img src="./gif/paixun.png" >
- <img src="./gif/peisu.png" >
-<br>
+<p>
+	<img src="./gif/paixun.png" >
+ 	<img src="./gif/peisu.png" >
+</p>
 
 ##### 个人信息/个人信息修改
 <br>
- <img src="./gif/personInfo.png" >
- <img src="./gif/editor.png" >
+<p>
+	<img src="./gif/personInfo.png" >
+ 	<img src="./gif/editor.png" >
+</p>
+
 <br>
 <strong>......</strong>
 <br>
+
 
 
 
