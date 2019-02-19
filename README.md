@@ -41,8 +41,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 <p>
+  <span>登陆/登陆成功页面</span>
     <img src="./gif/login.png" >
-    <img src="./screenshot/douban_movie.gif" >
+    <img src="./gif/loginSucc.png" >
     <br>
      <img src="./screenshot/douban_login.gif" >
     <img src="./screenshot/douban_search.gif" >
