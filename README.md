@@ -5,7 +5,7 @@
 
 
 
-#### 前端使用的是vue +ElementUI +ydui
+#### 前端使用的是vue +ydui
 
 ### 技术栈
 ##### ydui 
